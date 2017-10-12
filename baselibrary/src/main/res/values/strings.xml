@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+</resources>
