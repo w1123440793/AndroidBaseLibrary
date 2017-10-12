@@ -10,7 +10,7 @@ import java.util.HashMap;
 
 import rx.functions.Action1;
 
-public class MainActivity extends BaseActivity {
+public class MainActivity extends BaseAppActivity {
 
     protected TextView net;
 
